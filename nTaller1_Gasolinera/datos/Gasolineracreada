@@ -1,0 +1,13 @@
+tipo:ACPM:10:1000.0
+tipo:Extra:10:1000.0
+tipo:Corriente:10:1000.0
+tipo:GNV:10:1000.0
+surtidor:Andres:ACPM:0.0:Extra:0.0:Corriente:0.0:GNV:0.0
+surtidor:Duber:ACPM:0.0:Extra:0.0:Corriente:0.0:GNV:0.0
+surtidor:Albert:ACPM:0.0:Extra:0.0:Corriente:0.0:GNV:0.0
+surtidor:Jeremy:ACPM:0.0:Extra:0.0:Corriente:0.0:GNV:0.0
+empleado:Andres:0
+empleado:Jeremy:0
+empleado:Estevan:0
+empleado:Duber:0
+empleado:Albert:0
