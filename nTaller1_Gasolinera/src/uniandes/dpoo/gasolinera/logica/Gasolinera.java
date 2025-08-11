@@ -21,7 +21,7 @@ import uniandes.dpoo.gasolinera.utils.Sorteo;
 public class Gasolinera
 {
     // ************************************************************************
-    // Atributos hola
+    // Atributos holaa
     // ************************************************************************
 
     /**
